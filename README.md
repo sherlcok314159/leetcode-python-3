@@ -7,4 +7,4 @@
 # 目录
 
 * 递归与记忆
-  * [斐波那契数列的n种解法](fibo-pure_recusition.md)
+  * [斐波那契数列的n种解法](fibo.md)
