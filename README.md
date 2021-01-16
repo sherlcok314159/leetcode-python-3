@@ -3,7 +3,8 @@
 如有问题希望探讨，欢迎发我邮箱。a3141592631@outlook.com
 
 
+
 # 目录
 
-* 斐波那契数列之n种解法
-  * [纯递归](fibo-pure_recusition.md)
+* 递归与记忆
+  * [斐波那契数列的n种解法](fibo-pure_recusition.md)
