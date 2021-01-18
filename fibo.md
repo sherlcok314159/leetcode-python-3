@@ -99,6 +99,8 @@ print(sys.getsizeof(l))
 
 ```python
 def fib(n):
+    if n == 0:
+       return 0
     memo[1 for i in range(n+1)]
     memo[0],memo[1] = 0,1
 
@@ -115,3 +117,5 @@ def fib(n):
  之所以提取生成长度为n+1的列表，是为了防止列表索引不够，进行有序的替换。
   
   因为是替换的，所以初始化列表的值是任取的，只要保证基例正确就行。
+   
+   要小心的是，如果输入*0*没有开头的if语句是会报错的(*for 循环*)
