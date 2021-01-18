@@ -14,3 +14,5 @@ F(n) = F(n - 1) + F(n - 2)，其中 n > 1
 # 纯递归
   递归有两个基本要素：基例以及递归关系式。
   * 基例：**w1**
+
+*the best hunter with the best patience*
