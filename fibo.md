@@ -16,3 +16,6 @@ F(n) = F(n - 1) + F(n - 2)，其中 n > 1
   * 基例：**w1**
 
 *the best hunter with the best patience*
+
+**i make it finally**
+yes
