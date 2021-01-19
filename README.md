@@ -16,8 +16,8 @@
   * [汉诺塔](md/hano.md)
 
 * 动态规划
-   * [凑零钱](md/coin.md)
-
+   * [零钱兑换](md/coin.md)
+   * [编辑距离](md/dis.md)
 
 
 
