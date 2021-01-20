@@ -19,8 +19,7 @@
    * [零钱兑换](md/coin.md)
    * [编辑距离](md/dis.md)
    * [最大连续递增子序列](md/sub.md)
-
-
+   * [爬楼梯](md/stairs.md)
 
 
 
