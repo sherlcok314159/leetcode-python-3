@@ -37,8 +37,7 @@ class Solution:
 
         def hano(n, A, B, C):
             if n == 1:
-                C.append(A[-1])
-                A.pop()
+                C.append(A.pop())
             else:
                 hano(n - 1, A, C, B)
                 hano(1, A, B, C)
@@ -62,7 +61,9 @@ class Solution:
 *细节注意点*
 
 *n == 1*时将元素添加到*C*上之后别忘了取出那个元素
- 
+
+另外，*pop*会取出来并且存储下来，*a.pop()*,一般括号里的参数为索引值，如果没有默认为*-1*
+
 在题解中套函数，别忘了需要两次*return*
 ********************************
 
