@@ -30,8 +30,8 @@
 
 
  * 细节
-   * [代码](md/small.md) 
-
+   * [代码](md/code.md) 
+   * [提高开发效率](md/quick.md)
 
 
 
