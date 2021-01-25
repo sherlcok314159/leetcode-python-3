@@ -22,6 +22,7 @@
    * [最长递增子序列](md/sub_new.md)
    * [俄罗斯套娃信封](md/letter.md)
    * [连续子数组的最大和](md/son_array.md) 
+   * [最长公共子序列](md/all_have.md)
    * [爬楼梯](md/stairs.md)
   
 
